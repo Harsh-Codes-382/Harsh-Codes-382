@@ -44,3 +44,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harsh-codes-382&show_icons=true&locale=en" alt="harsh-codes-382" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harsh-codes-382&" alt="harsh-codes-382" /></p>
+
+<img src="https://raw.githubusercontent.com/Harsh-Codes-382/Harsh-Codes-382/output/snake.svg" alt="Snake animation" />

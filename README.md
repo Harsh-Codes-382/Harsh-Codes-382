@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Harsh</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /> I'm Harsh!</h1>
 <h3 align="center">A passionate frontend and Backend (Fullstack) developer but more like a backend stuff. But Currently i am a CS Student who also grinding a Data Structure and doing a Coding contest and CP along with Fullstack Developement. </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harsh-codes-382&label=Profile%20views&color=0e75b6&style=flat" alt="harsh-codes-382" /> </p>

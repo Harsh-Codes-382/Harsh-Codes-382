@@ -40,10 +40,10 @@
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harsh-codes-382&show_icons=true&locale=en&layout=compact" alt="harsh-codes-382" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Harsh-Codes-382&theme=dark&show_icons=true&locale=en&layout=compact" alt="harsh-codes-382" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harsh-codes-382&show_icons=true&locale=en" alt="harsh-codes-382" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Harsh-Codes-382&theme=dark&show_icons=true&locale=en" alt="harsh-codes-382" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harsh-codes-382&" alt="harsh-codes-382" /></p>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Harsh-Codes-382&theme=dark)](https://git.io/streak-stats)
 
 <img src="https://raw.githubusercontent.com/Harsh-Codes-382/Harsh-Codes-382/output/snake.svg" alt="Snake animation" />

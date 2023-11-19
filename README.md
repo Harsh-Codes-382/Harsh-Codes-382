@@ -18,7 +18,7 @@
 <a href="https://auth.geeksforgeeks.org/user/harshkumqcaj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="harshkumqcaj" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left" margin="20">Languages and Tools:</h3>
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" padding="12"/> </a>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
@@ -44,6 +44,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Harsh-Codes-382&theme=dark&show_icons=true&locale=en" alt="harsh-codes-382" /></p>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Harsh-Codes-382&theme=dark)](https://git.io/streak-stats)
-
-<img src="https://raw.githubusercontent.com/Harsh-Codes-382/Harsh-Codes-382/output/snake.svg" alt="Snake animation" />
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Harsh-Codes-382&theme=dark&" alt="harsh-codes-382" /></p>
